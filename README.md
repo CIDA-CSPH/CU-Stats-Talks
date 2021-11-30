@@ -30,11 +30,11 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You can sign up for any of the above lectures using the CU Data Week [Registration Form](https://app.smartsheet.com/b/form/fd67eccbeb474727a70d69ee30eff869).
 
 ## How to Participate in CU Stats Fest
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For detailed information about CU Stats Fest please visit CU Stat Fest's separate [GitHub repository]().
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For detailed information about CU Stats Fest please visit CU Stat Fest's separate [GitHub repository](https://github.com/CIDA-CSPH/CU-Stats_Fest).
 
 ## Rules and Acknowledgement of Participation
 
 ## Funding for CU Data Week
 
 ## Report Issues
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Please report any issues you have with CU Data Week on [GitHub Issues]().
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Please report any issues you have with CU Data Week on [GitHub Issues](https://github.com/CIDA-CSPH/CU-Stats_Fest/issues).
