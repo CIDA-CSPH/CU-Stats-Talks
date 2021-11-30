@@ -4,7 +4,7 @@
 - [CU Data Week](#cu-data-week)
   - [What is CU Data Week](#what-is-cu-data-week)
   - [What's in this repository](#whats-in-this-repository)
-    - [Lecture Directories](#lecture-directories)
+    - [Stats Talks Directories](#lecture-directories)
   - [How to Participate in CU Data Week](#how-to-participate-in-cu-data-week)
   - [How to Participate in CU Stats Fest](#how-to-participate-in-cu-stats-fest)
   - [Rules and Acknowledgement of Participation](#rules-and-acknowledgement-of-participation)
