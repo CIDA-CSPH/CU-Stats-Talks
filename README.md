@@ -37,4 +37,4 @@
 ## Funding for CU Data Week
 
 ## Report Issues
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Please report any issues you have with CU Data Week on [GitHub Issues](https://github.com/CIDA-CSPH/CU-Stats_Fest/issues).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Please report any issues you have with CU Data Week on [GitHub Issues](https://github.com/CIDA-CSPH/CU-Data_Week/issues).
