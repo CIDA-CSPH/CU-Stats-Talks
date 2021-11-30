@@ -1,5 +1,6 @@
 # Table of Contents
 
+- [Table of Contents](#table-of-contents)
 - [CU Data Week](#cu-data-week)
   - [What is CU Data Week](#what-is-cu-data-week)
   - [What's in this repository](#whats-in-this-repository)
@@ -19,8 +20,8 @@
 
 ### Lecture Directories
 
-* [Lunchtime Basics-Basic Statistics using R](Lunchtime%20Basics-basic%20Statistics%20using%20R/)
-* [Lunchtime Basics-Basic Statistics using SAS](Lunchtime%20Basics-basic%20Statistics%20using%20SAS/)
+* [Lunchtime Basics-Basic Statistics using R](Lunchtime%20Basics-Basic%20Statistics%20using%20R/)
+* [Lunchtime Basics-Basic Statistics using SAS](Lunchtime%20Basics-Basic%20Statistics%20using%20SAS/)
 * [Creating Cool Figures](Creating%20Cool%20Figures/)
 * [Analysis Workflow using Git, Python, and Jupyter](Analysis%20Workflow%20using%20Git,%20Python,%20and%20Jupyter/)
 * [Introduction to Microbiome Data](Introduction%20to%20Microbiome%20Data/)
