@@ -16,7 +16,7 @@
 ## What is CU Data Week
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The CU Data Week is an opportunity for students, faculty, and community members to come together to develop innovative tools and analyses that will help drive research on campus. Throughout the event, our goal is to open the doors to resources that allow participants to further develop their programming skills, while building a community of researchers, mentors, and fellow programmers.
 
-At CU Data Week 2022, participants can attend Stats Talks to learn introductory topics in statistics and programming--then put their skills to the test at the CU Stats Fest, a programming and analysis competition! All statistical software can be used to compete in the Hackathon.
+At CU Data Week 2022, participants can attend Stats Talks to learn introductory topics in statistics and programming--then put their skills to the test at the CU Stats Fest, a programming and analysis competition! All statistical software can be used to compete!
 
 Create, innovate, and drive science with students, faculty, and medical experts. Register for today!. 
 
