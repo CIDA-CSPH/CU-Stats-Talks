@@ -1,0 +1,27 @@
+# Class Contents
+- Setting up a project file structure
+  - How to organize your workspace to set up a project.
+- Setting up Git
+  - Configuring Git settings
+  - Initializing a local Git repository
+  - Ignoring files locally (project specific)
+  - Ignoring files globally (project non-specific)
+  - Create a new Git Branch
+- Virtual environments
+  - Create a Python virtual environment
+  - Install required Python modules
+  - Activating/deactivating the virtual environment
+- Data management
+  - Applying CHMOD to raw data
+  - Storing processed data
+  - Ignoring data that contain sensitive information
+- Python Exploratory Data Analsyis
+  - Wrangling data with Pandas
+  - Generating descriptive statistics
+  - Creating interactive plots with Plotly
+- Git Workflow, Logs, and History
+  - Staging & commiting
+  - Thoughtful commits
+  - Merging branches
+  - Reading Git logs
+  - Reverting to a previous project/file history
