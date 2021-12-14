@@ -1,6 +1,6 @@
-# Class Contents
+# Talk Contents
 - Setting up a project file structure
-  - How to organize your workspace to set up a project.
+  - How to organize your workspace to set up a project
 - Setting up Git
   - Configuring Git settings
   - Initializing a local Git repository
@@ -15,7 +15,7 @@
   - Applying CHMOD to raw data
   - Storing processed data
   - Ignoring data that contain sensitive information
-- Python Exploratory Data Analsyis
+- Python Exploratory Data Analysis
   - Wrangling data with Pandas
   - Generating descriptive statistics
   - Creating interactive plots with Plotly
