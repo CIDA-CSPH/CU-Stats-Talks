@@ -29,6 +29,7 @@ Create, innovate, and drive science with students, faculty, and medical experts.
 * [Creating Cool Figures](Creating%20Cool%20Figures/)
 * [Analysis Workflow using Git, Python, and Jupyter](Analysis%20Workflow%20using%20Git,%20Python,%20and%20Jupyter/)
 * [Introduction to Microbiome Data](Introduction%20to%20Microbiome%20Data/)
+* [Working with a Statistician](Working%20with%20a%20Statistician/)
 
 ## How to Participate in CU Data Week
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You can sign up for any of the above Stats Talks and for Stats Fest using the CU Data Week [Registration Form](https://app.smartsheet.com/b/form/fd67eccbeb474727a70d69ee30eff869).
