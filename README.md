@@ -26,7 +26,7 @@ Create, innovate, and drive science with students, faculty, and medical experts.
 
 * [Lunchtime Basics-Basic Statistics using R](Lunchtime%20Basics-Basic%20Statistics%20using%20R/)
 * [Lunchtime Basics-Basic Statistics using SAS](Lunchtime%20Basics-Basic%20Statistics%20using%20SAS/)
-* [Creating Cool Figures](Creating%20Cool%20Figures/)
+* [Creating Cool Figures](Creating%20Cool%20Figures%20in%20R/)
 * [Analysis Workflow using Git, Python, and Jupyter](Analysis%20Workflow%20using%20Git,%20Python,%20and%20Jupyter/)
 * [Introduction to Microbiome Data](Introduction%20to%20Microbiome%20Data/)
 * [Working with a Statistician](Working%20with%20a%20Statistician/)
