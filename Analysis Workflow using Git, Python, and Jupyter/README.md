@@ -1,3 +1,18 @@
+# Talk Prerequisites
+- Installing Git Bash (Windows only)
+  - You can find the installation files for Git Bash at the official [Git website](https://git-scm.com/downloads)
+  - When installing make sure you select an editor other than the default Vim, notepad is okay, and make sure that the default branch name is main and not master. These are options that you can select in the prompts when installing Git Bash.
+- Installing Python via Anaconda
+  - You can find the latest Ananconda distribution on the official [Anaconda website](https://www.anaconda.com/products/individual)
+- Installing VSCode Integrated Development Environment (IDE)
+  - You can find the latest VSCode distribution on the official [VSCode website](https://code.visualstudio.com/download)
+- Installing VSCode extensions
+  - In VSCode, within the left-hand sidebar click on the extensions tab and search for and install the following extensions:
+    - Jupyter
+    - Jupyter Keymap
+    - Jupyter Notebook Renderers
+    - Python
+    - Pylance
 # Talk Contents
 - Setting up a project file structure
   - How to organize your workspace to set up a project
