@@ -1,3 +1,5 @@
+# Talk Recording
+You can find the recording of the talk [here](https://olucdenver-my.sharepoint.com/:v:/g/personal/laura_grau_cuanschutz_edu/EbhPrjn87hVAvfpXvRx98F0Bb5Le3Wo8__MTe7OJL4l44Q?e=FqAcST).
 # Talk Prerequisites
 - Installing Git Bash (Windows only)
   - You can find the installation files for Git Bash at the official [Git website](https://git-scm.com/downloads)
